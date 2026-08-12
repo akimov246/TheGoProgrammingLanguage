@@ -1,6 +1,5 @@
 // Измените программу dup2 так, чтобы она выводила имена всех
 // файлов, в которых найдены повторяющиеся строки.
-
 package main
 
 import (
@@ -43,6 +42,6 @@ func countLines(f *os.File, counts map[string]int, lineLocation map[string][]str
 		if !slices.Contains(lineLocation[line], f.Name()) {
 			lineLocation[line] = append(lineLocation[line], f.Name())
 		}
-	}	
+	}
 	// Примечание: игнорируем потенциальные ошибки из input.Err()
 }

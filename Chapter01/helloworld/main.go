@@ -1,5 +1,4 @@
-// Выводит "Hello World"
-
+// Helloworld выводит "Hello World"
 package main
 
 import "fmt"
