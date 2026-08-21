@@ -14,9 +14,9 @@
 2.2. ✅ Объявления  
 2.3. ✅ Переменные  
 &emsp;&emsp;&emsp;&nbsp;2.3.1. ✅ Краткое объявление переменной  
-&emsp;&emsp;&emsp;&nbsp;2.3.2. ❌ Указатели  
-&emsp;&emsp;&emsp;&nbsp;2.3.3. ❌ Функция new  
-&emsp;&emsp;&emsp;&nbsp;2.3.4. ❌ Время жизни переменных  
+&emsp;&emsp;&emsp;&nbsp;2.3.2. ✅ Указатели  
+&emsp;&emsp;&emsp;&nbsp;2.3.3. ✅ Функция new  
+&emsp;&emsp;&emsp;&nbsp;2.3.4. ✅ Время жизни переменных  
 2.4. ❌ Присваивания  
 &emsp;&emsp;&emsp;&nbsp;2.4.1. ❌ Присваивание кортежу  
 &emsp;&emsp;&emsp;&nbsp;2.4.2. ❌ Присваиваемость  
